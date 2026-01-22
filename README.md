@@ -173,7 +173,7 @@ Successfully identified 908 high-risk buildings that would likely be missed by a
 ### How to Run the Project
 
 #### Clone the Repository
-git clone https://github.com/yourusername/insurance-claim-prediction.git
+git clone https://github.com/Profben10/insurance-claim-prediction.git
 
 #### Install Dependencies
 pip install pandas numpy xgboost scikit-learn matplotlib seaborn
